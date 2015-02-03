@@ -4,15 +4,15 @@
   version = 1422967894989;
 
   window.taigaConfig = {
-    "api": "http://localhost:8000/api/v1/",
+    "api": "http://taiga.xdevel.com.br/api/v1/",
     "eventsUrl": null,
-    "debug": true,
+    "debug": false,
     "publicRegisterEnabled": true,
     "feedbackEnabled": true,
     "privacyPolicyUrl": null,
     "termsOfServiceUrl": null,
     "maxUploadFileSize": null,
-    "gitHubClientId": null,
+    "gitHubClientId": "8faef4f8112b0b832273",
     "contribPlugins": []
   };
 
