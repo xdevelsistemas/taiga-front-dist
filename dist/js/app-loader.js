@@ -7,13 +7,13 @@
     "api": "http://taiga.xdevel.com.br/api/v1/",
     "eventsUrl": null,
     "debug": false,
-    "publicRegisterEnabled": true,
+    "publicRegisterEnabled": false,
     "feedbackEnabled": true,
     "privacyPolicyUrl": null,
     "termsOfServiceUrl": null,
     "maxUploadFileSize": null,
-    "gitHubClientId": "8faef4f8112b0b832273",
-    "contribPlugins": []
+    "gitHubClientId": "e9d603e28dc0876b3260",
+    "contribPlugins": ["/js/slack.js"]
   };
 
   promise = $.getJSON("/js/conf.json");
