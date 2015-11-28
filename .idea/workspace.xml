@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872b390d-0cfc-407c-aff5-9ca72a02ddb5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/backlog-empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/issues-empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/search-empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/sprint-empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/user-noimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/OpenSans-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/locales/locale-it.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/locales/locale-pl.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/locales/locale-ru.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/styles/theme-high-contrast.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/styles/theme-material-design.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/styles/theme-taiga.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/add.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/check.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/eye.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/graph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/like.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/logo-color.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/logo-moustache.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/remove.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/unwatch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/upvote.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/svg/watch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generate.sh" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugins/humanshtml/templates/humans.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/main.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/taiga.eot" afterPath="$PROJECT_DIR$/dist/fonts/taiga.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/taiga.ttf" afterPath="$PROJECT_DIR$/dist/fonts/taiga.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/taiga.woff" afterPath="$PROJECT_DIR$/dist/fonts/taiga.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/fonts/taiga.svg" afterPath="$PROJECT_DIR$/dist/fonts/taiga.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/app-loader.js" afterPath="$PROJECT_DIR$/dist/js/app-loader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/app.js" afterPath="$PROJECT_DIR$/dist/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/conf.example.json" afterPath="$PROJECT_DIR$/dist/js/conf.example.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/libs.js" afterPath="$PROJECT_DIR$/dist/js/libs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/maps/app.js.map" afterPath="$PROJECT_DIR$/dist/js/maps/app.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/maps/libs.js.map" afterPath="$PROJECT_DIR$/dist/js/maps/libs.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/templates.js" afterPath="$PROJECT_DIR$/dist/js/templates.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-ca.json" afterPath="$PROJECT_DIR$/dist/locales/locale-ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-de.json" afterPath="$PROJECT_DIR$/dist/locales/locale-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-en.json" afterPath="$PROJECT_DIR$/dist/locales/locale-en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-es.json" afterPath="$PROJECT_DIR$/dist/locales/locale-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-fi.json" afterPath="$PROJECT_DIR$/dist/locales/locale-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-fr.json" afterPath="$PROJECT_DIR$/dist/locales/locale-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-nl.json" afterPath="$PROJECT_DIR$/dist/locales/locale-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-pt-br.json" afterPath="$PROJECT_DIR$/dist/locales/locale-pt-br.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/locales/locale-zh-hant.json" afterPath="$PROJECT_DIR$/dist/locales/locale-zh-hant.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/svg/logo-nav.svg" afterPath="$PROJECT_DIR$/dist/svg/logo-nav.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/svg/logo.svg" afterPath="$PROJECT_DIR$/dist/svg/logo.svg" />
-    </list>
+    <list default="true" id="872b390d-0cfc-407c-aff5-9ca72a02ddb5" name="Default" comment="" />
     <ignored path="taiga-front-dist.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
