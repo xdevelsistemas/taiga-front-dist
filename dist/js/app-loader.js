@@ -1,18 +1,20 @@
 (function() {
   var promise, version;
 
-  version = 1422967768665;
+  version = 1447170651789;
 
   window.taigaConfig = {
     "api": "http://localhost:8000/api/v1/",
     "eventsUrl": null,
     "debug": true,
+    "defaultLanguage": "en",
+    "themes": ["taiga", "material-design", "high-contrast"],
+    "defaultTheme": "taiga",
     "publicRegisterEnabled": true,
     "feedbackEnabled": true,
     "privacyPolicyUrl": null,
     "termsOfServiceUrl": null,
     "maxUploadFileSize": null,
-    "gitHubClientId": null,
     "contribPlugins": []
   };
 
